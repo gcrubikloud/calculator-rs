@@ -1,0 +1,9 @@
+[package]
+name = "calc"
+version = "0.1.0"
+authors = ["gcrubikloud <graham.crowell@rubikloud.com>"]
+edition = "2018"
+
+[dependencies]
+regex = "1.1.0"
+indextree = "3.0.0"
